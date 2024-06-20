@@ -1,0 +1,694 @@
+1649352323039	geckodriver	INFO	Listening on 127.0.0.1:63163
+1649352326105	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63164" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileKhdy0m"
+1649352327152	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileKhdy0m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63164/devtools/browser/632f342f-17e2-49f9-bc4b-383670136722
+1649352330267	Marionette	INFO	Listening on port 63169
+1649352330329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649353995873	Marionette	INFO	Stopped listening on port 63169
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649353996156	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@1649356312225	Marionette	INFO	Stopped listening on port 60973
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649356312399	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649426619093	geckodriver	INFO	Listening on 127.0.0.1:63545
+1649426622070	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63546" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilebdhwVz"
+1649426622764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilebdhwVz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63546/devtools/browser/c07dba35-e88c-4fee-9ff6-ef83f57f6103
+1649426625125	Marionette	INFO	Listening on port 63552
+1649426625239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649429905347	Marionette	INFO	Stopped listening on port 63552
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: OperationError: Could not move temporary file(C:\Users\kjj326\AppData\Local\Temp\rust_mozprofilebdhwVz\sessionCheckpoints.json.tmp) to destination(C:\Users\kjj326\AppData\Local\Temp\rust_mozprofilebdhwVz\sessionCheckpoints.json)
+1649429905703	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649433586493	geckodriver	INFO	Listening on 127.0.0.1:57361
+1649433589397	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57362" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileSVOudn"
+1649433589957	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileSVOudn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57362/devtools/browser/6723ef9d-91f9-47c5-90b1-8a8dab421efc
+1649433592376	Marionette	INFO	Listening on port 57369
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3900D3,name=PContent::Msg_ScriptErrorWithStack) Channel closing: too late to send/recv, messages will be lost
+
+1649433592584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649434046528	Marionette	INFO	Stopped listening on port 57369
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649434047096	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649434053596	geckodriver	INFO	Listening on 127.0.0.1:57776
+1649434056661	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57777" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileE1W2tp"
+1649434057270	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileE1W2tp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57777/devtools/browser/67706483-0938-4ffd-aa55-6fd86dc6c76e
+1649434059719	Marionette	INFO	Listening on port 57782
+1649434059870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649434294122	Marionette	INFO	Stopped listening on port 57782
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649434294618	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649434782332	geckodriver	INFO	Listening on 127.0.0.1:58081
+1649434785420	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58082" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilezKqTuy"
+1649434785887	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilezKqTuy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58082/devtools/browser/6f50f216-cdea-4ddd-8403-5796fcbe8f13
+1649434788154	Marionette	INFO	Listening on port 58088
+1649434788610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649436117036	Marionette	INFO	Stopped listening on port 58088
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649436117818	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+E: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649436117917	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+for this session
+1649436117033	Marionette	INFO	Stopped listening on port 55362
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649436118072	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649436136017	geckodriver	INFO	Listening on 127.0.0.1:55422
+1649436139089	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55423" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofile7wjGgZ"
+1649436139674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofile7wjGgZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55423/devtools/browser/9a85887b-dc1f-4c17-9a7c-ed341a3f797a
+1649436142202	Marionette	INFO	Listening on port 55428
+1649436142291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649436494585	Marionette	INFO	Stopped listening on port 55428
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649436495103	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 55562
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649436495353	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+E: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1649436495305	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649439075422	geckodriver	INFO	Listening on 127.0.0.1:56302
+1649439078369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56303" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileYXy41Q"
+1649439078907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileYXy41Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56303/devtools/browser/a032e467-f245-48b6-af91-426d0a712058
+1649439081136	Marionette	INFO	Listening on port 56312
+1649439081559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649441196125	Marionette	INFO	Stopped listening on port 56312
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kjj326\AppData\Local\Temp\rust_mozprofileYXy41Q\protections.sqlite
+1649441197068	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+r]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kjj326\AppData\Local\Temp\rust_mozprofilexyAkCi\protections.sqlite
+1649441197039	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+r]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649441196867	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+RE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649441196909	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 56933
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649441196794	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 57845
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649441196868	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649441203446	geckodriver	INFO	Listening on 127.0.0.1:53405
+1649441206523	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53406" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileC5sO8h"
+1649441206945	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileC5sO8h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53406/devtools/browser/79f98e2c-fa6a-492f-a747-c3bbc2bf89fb
+1649441209172	Marionette	INFO	Listening on port 53411
+1649441209217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649442074798	Marionette	INFO	Stopped listening on port 53411
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649442075315	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 51920
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\kjj326\AppData\Local\Temp\rust_mozprofileQOlxol\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649442075643	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+AllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649442075646	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1649443297918	geckodriver	INFO	Listening on 127.0.0.1:55368
+1649443300760	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55369" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileKXpGw3"
+1649443301302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileKXpGw3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55369/devtools/browser/2a1d5d87-a522-4cc5-98ce-98dbe5565b2f
+1649443303780	Marionette	INFO	Listening on port 55377
+1649443303940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649443544406	Marionette	INFO	Stopped listening on port 55377
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649443544779	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@1649443544951	Marionette	INFO	Stopped listening on port 55451
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649443545883	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 64161
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+!!! error running onStopped callback: TypeError: callback is not a function
+1649443546673	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+ening on port 64224
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1DevTools listening on ws://localhost:55524/devtools/browser/4933c29a-c494-4bd0-977a-89e9f38f673b
+1649443547035	Marionette	INFO	Listening on port 55532
+1649443547649	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649443604872	Marionette	INFO	Stopped listening on port 55532
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1649443606251	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()1649445875155	Marionette	INFO	Stopped listening on port 55618
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=6d83400","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3502,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:386","chrome://global/content/elements/browser-custom-element.js:construct:981","chrome://global/content/elements/browser-custom-element.js:connectedCallback:324","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:408","chrome://browser/content/tabbrowser.js:init:50","chrome://browser/content/browser.js:onDOMContentLoaded:1686"]}] Barrier: profile-before-change
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 34484, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[GFX1]: Attempting to post to an invalid Compositor Thread
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2047: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1649445905071	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1663687019486	geckodriver	INFO	Listening on 127.0.0.1:58298
+1663687022573	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58299" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilecEEpey"
+1663687023816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilecEEpey\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58299/devtools/browser/2994e3a0-2ba0-492b-b138-0f893d9c9dd7
+1663687026723	Marionette	INFO	Listening on port 58304
+1663687026803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663687797824	Marionette	INFO	Stopped listening on port 58304
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+1663687798014	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1663689180803	geckodriver	INFO	Listening on 127.0.0.1:59096
+1663689183672	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59097" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileHcQac4"
+1663689184715	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileHcQac4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59097/devtools/browser/17aa0080-8194-4643-a3c7-878cdd953e50
+1663689186998	Marionette	INFO	Listening on port 59106
+1663689187380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1663689479804	Marionette	INFO	Stopped listening on port 59106
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 8728, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1663689480114	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+stop()@CDP.jsm:104
+close()@RemoteAgent.jsm:138
+1687363522351	geckodriver	INFO	Listening on 127.0.0.1:65394
+1687363525457	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65395" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileq5N8lW"
+1687363526148	Marionette	INFO	Marionette enabled
+1687363526153	Marionette	INFO	Listening on port 65407
+WebDriver BiDi listening on ws://localhost:65395
+1687363527681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileq5N8lW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65395/devtools/browser/ca1ec905-4974-4751-a682-869641d62e1a
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1687371114734	Marionette	INFO	Stopped listening on port 65407
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1718308985783	geckodriver	INFO	Listening on 127.0.0.1:57430
+1718308988823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57431" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileaLIfkv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718308989722	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718308989855	Marionette	INFO	Listening on port 57438
+WebDriver BiDi listening on ws://127.0.0.1:57431
+1718308989968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57431/devtools/browser/7323166f-b2be-4f69-8424-9b1a231692ec
+1718309019780	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718309528012	Marionette	INFO	Stopped listening on port 57438
+Dynamically enable window occlusion 1
+1718908363434	geckodriver	INFO	Listening on 127.0.0.1:57196
+1718908366452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57197" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilehspOJp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718908367395	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718908367540	Marionette	INFO	Listening on port 57205
+WebDriver BiDi listening on ws://127.0.0.1:57197
+1718908367672	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57197/devtools/browser/e43fa882-8461-4f22-9703-1b00d2985fe7
+1718908397420	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718908989844	Marionette	INFO	Stopped listening on port 57205
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57676" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilekgqA95"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718908749996	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718908750072	Marionette	INFO	Listening on port 57683
+WebDriver BiDi listening on ws://127.0.0.1:57676
+1718908750300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57676/devtools/browser/c9c48ae1-041f-47ca-8ad0-523ddc91de7e
+1718908780037	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718908991583	Marionette	INFO	Stopped listening on port 57683
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57784" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileJEWktt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718908917119	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718908917200	Marionette	INFO	Listening on port 57790
+WebDriver BiDi listening on ws://127.0.0.1:57784
+1718908917459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57784/devtools/browser/c4549d80-ab07-4ca3-91ba-5e1b0bef7999
+1718908947144	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718908988607	Marionette	INFO	Stopped listening on port 57790
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+mote-debugging-port" "57852" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilerexrtK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718908983985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718908984067	Marionette	INFO	Listening on port 57857
+WebDriver BiDi listening on ws://127.0.0.1:57852
+1718908984314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57852/devtools/browser/a76d0229-68c6-4fa3-8cdc-ee6740127269
+1718908992913	Marionette	INFO	Stopped listening on port 57857
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909001303	geckodriver	INFO	Listening on 127.0.0.1:57915
+1718909004391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57916" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileUJv3vc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909004842	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909004919	Marionette	INFO	Listening on port 57921
+WebDriver BiDi listening on ws://127.0.0.1:57916
+1718909005009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57916/devtools/browser/d1c8e4b1-c9b8-4f3b-a6d5-2b2066cdcb72
+1718909012403	Marionette	INFO	Stopped listening on port 57921
+Dynamically enable window occlusion 1
+1718909036317	geckodriver	INFO	Listening on 127.0.0.1:57979
+1718909039400	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57980" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileyRziTH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909039780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909039862	Marionette	INFO	Listening on port 57985
+WebDriver BiDi listening on ws://127.0.0.1:57980
+1718909040088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57980/devtools/browser/58d28417-bf7e-411a-b62d-b3db20766abf
+1718909046608	Marionette	INFO	Stopped listening on port 57985
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909153316	geckodriver	INFO	Listening on 127.0.0.1:58054
+1718909156370	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58055" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofile6OFFcW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909156785	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909156860	Marionette	INFO	Listening on port 58060
+WebDriver BiDi listening on ws://127.0.0.1:58055
+1718909156961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58055/devtools/browser/d14bfb45-5bba-4abe-8017-ec3db45d0547
+1718909168070	Marionette	INFO	Stopped listening on port 58060
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909250022	geckodriver	INFO	Listening on 127.0.0.1:58127
+1718909253105	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58128" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilekcrNCu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909253493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909253566	Marionette	INFO	Listening on port 58133
+WebDriver BiDi listening on ws://127.0.0.1:58128
+1718909253810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58128/devtools/browser/b27a117e-a676-4d08-94aa-184bda1dd810
+1718909283521	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718909325682	Marionette	INFO	Stopped listening on port 58133
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58195" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileGaQsY1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909318850	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909318962	Marionette	INFO	Listening on port 58200
+WebDriver BiDi listening on ws://127.0.0.1:58195
+1718909319045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58195/devtools/browser/ef6cd1ab-bcce-4621-a936-a27d4f5a226a
+1718909324707	Marionette	INFO	Stopped listening on port 58200
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909455392	geckodriver	INFO	Listening on 127.0.0.1:58319
+1718909458478	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58320" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileUna7w5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909458990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909459081	Marionette	INFO	Listening on port 58326
+WebDriver BiDi listening on ws://127.0.0.1:58320
+1718909459177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58320/devtools/browser/ba76f479-da9d-40b2-900a-996af60e3e23
+1718909464887	Marionette	INFO	Stopped listening on port 58326
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909677004	geckodriver	INFO	Listening on 127.0.0.1:58572
+1718909680060	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58573" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileFCUYIp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909680465	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909680541	Marionette	INFO	Listening on port 58578
+WebDriver BiDi listening on ws://127.0.0.1:58573
+1718909680764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58573/devtools/browser/113ae4d5-5177-4542-9a9d-c1800fce9213
+1718909685943	Marionette	INFO	Stopped listening on port 58578
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909734288	geckodriver	INFO	Listening on 127.0.0.1:58635
+1718909737326	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58636" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilek00sFb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909737793	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909737903	Marionette	INFO	Listening on port 58641
+WebDriver BiDi listening on ws://127.0.0.1:58636
+1718909737998	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58636/devtools/browser/8eb441a3-6813-4b7c-976a-e230ddb965bf
+1718909744159	Marionette	INFO	Stopped listening on port 58641
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909791204	geckodriver	INFO	Listening on 127.0.0.1:58694
+1718909794274	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58695" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilezf9LJE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909794699	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909794776	Marionette	INFO	Listening on port 58700
+WebDriver BiDi listening on ws://127.0.0.1:58695
+1718909794875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58695/devtools/browser/474d1726-03b5-4ac9-b1c9-122002b4bfa7
+1718909801269	Marionette	INFO	Stopped listening on port 58700
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909833277	geckodriver	INFO	Listening on 127.0.0.1:58755
+1718909836355	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58756" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileq5SoYU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909836750	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909836825	Marionette	INFO	Listening on port 58761
+WebDriver BiDi listening on ws://127.0.0.1:58756
+1718909837047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58756/devtools/browser/8f7dfa92-c3eb-4fe6-9bed-20bfd59ba506
+1718909845372	Marionette	INFO	Stopped listening on port 58761
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718909940136	geckodriver	INFO	Listening on 127.0.0.1:58852
+1718909943226	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58853" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileRB4Cky"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718909943631	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718909943712	Marionette	INFO	Listening on port 58858
+WebDriver BiDi listening on ws://127.0.0.1:58853
+1718909943960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58853/devtools/browser/f3c69149-16fe-44c8-b93b-19162ba1db07
+1718909948466	Marionette	INFO	Stopped listening on port 58858
+Dynamically enable window occlusion 1
+1718910007208	geckodriver	INFO	Listening on 127.0.0.1:58932
+1718910010273	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58933" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilewC4Trd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910010848	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910010933	Marionette	INFO	Listening on port 58939
+WebDriver BiDi listening on ws://127.0.0.1:58933
+1718910011446	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58933/devtools/browser/96964755-6589-47d5-a4ab-3037c124b59b
+1718910015767	Marionette	INFO	Stopped listening on port 58939
+Dynamically enable window occlusion 1
+1718910429754	geckodriver	INFO	Listening on 127.0.0.1:60464
+1718910432812	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60465" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileBTeZvx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910433258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910433349	Marionette	INFO	Listening on port 60470
+WebDriver BiDi listening on ws://127.0.0.1:60465
+1718910433428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60465/devtools/browser/e2ad1caf-87e7-45d3-807c-000a08a70b1c
+1718910440967	Marionette	INFO	Stopped listening on port 60470
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: OperationError: Could not move temporary file(C:\Users\kjj326\AppData\Local\Temp\rust_mozprofileBTeZvx\sessionCheckpoints.json.tmp) to destination(C:\Users\kjj326\AppData\Local\Temp\rust_mozprofileBTeZvx\sessionCheckpoints.json)
+1718910487129	geckodriver	INFO	Listening on 127.0.0.1:60537
+1718910490210	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60538" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileroaKoN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910490683	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910490763	Marionette	INFO	Listening on port 60552
+WebDriver BiDi listening on ws://127.0.0.1:60538
+1718910490848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60538/devtools/browser/9fdad4d5-37f7-4251-83b3-c18bc2e6df1b
+1718910502591	Marionette	INFO	Stopped listening on port 60552
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718910550562	geckodriver	INFO	Listening on 127.0.0.1:60654
+1718910553598	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60655" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileFt8LWq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910554026	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910554121	Marionette	INFO	Listening on port 60660
+WebDriver BiDi listening on ws://127.0.0.1:60655
+1718910554214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60655/devtools/browser/929d0577-bea5-4201-a74b-b62362784a16
+1718910560126	Marionette	INFO	Stopped listening on port 60660
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718910847702	geckodriver	INFO	Listening on 127.0.0.1:61122
+1718910850783	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61123" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileP0UYrZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910851359	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910851505	Marionette	INFO	Listening on port 61132
+WebDriver BiDi listening on ws://127.0.0.1:61123
+1718910851850	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61123/devtools/browser/f5a563ac-7d21-46c2-af07-1074c1e15fa8
+1718910858525	Marionette	INFO	Stopped listening on port 61132
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1718910891823	geckodriver	INFO	Listening on 127.0.0.1:61193
+1718910894888	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61194" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofile13LenK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718910895327	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718910895401	Marionette	INFO	Listening on port 61199
+WebDriver BiDi listening on ws://127.0.0.1:61194
+1718910895500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61194/devtools/browser/d79d4510-0bcf-420a-b848-0b6f02f44242
+1718910903777	Marionette	INFO	Stopped listening on port 61199
+Dynamically enable window occlusion 1
+1718911017784	geckodriver	INFO	Listening on 127.0.0.1:61256
+1718911020863	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61257" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilermsZbz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718911021319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718911021417	Marionette	INFO	Listening on port 61263
+WebDriver BiDi listening on ws://127.0.0.1:61257
+1718911021497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61257/devtools/browser/af6dabf5-7869-4af6-8a42-43581da0af7f
+1718911051342	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1718911103025	Marionette	INFO	Stopped listening on port 61263
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61332" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofilez47pqv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718911096032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718911096112	Marionette	INFO	Listening on port 61338
+WebDriver BiDi listening on ws://127.0.0.1:61332
+1718911096337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61332/devtools/browser/2065f6dc-f398-4145-9ce3-fd6beb7fb496
+1718911100937	Marionette	INFO	Stopped listening on port 61338
+Dynamically enable window occlusion 1
+1718912264347	geckodriver	INFO	Listening on 127.0.0.1:62210
+1718912267389	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62211" "-no-remote" "-profile" "C:\\Users\\kjj326\\AppData\\Local\\Temp\\rust_mozprofileVlQ1CN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1718912267868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1718912267964	Marionette	INFO	Listening on port 62217
+WebDriver BiDi listening on ws://127.0.0.1:62211
+1718912268066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62211/devtools/browser/377b7d5c-0af3-4d90-bf02-39abd6a66557
+1718912288492	Marionette	INFO	Stopped listening on port 62217
+Dynamically enable window occlusion 1
