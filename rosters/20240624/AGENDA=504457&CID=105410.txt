@@ -1,0 +1,2035 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_7687270|rpid=-1569898018|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs Meeting Roster</title>
+</head>
+
+	<center>
+		<h2>BIOCHEMICAL AND CELLULAR ONCOGENESIS STUDY SECTION</h2>    
+	         
+	             
+	             
+	                 <b>BCO </b>
+	                 <br>
+	             
+	         
+	         <b>06/26/24 - 
+	         	06/27/24<br/>Meeting Roster</b>
+    </center>
+<br/>
+<br/>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br/>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CRISPINO,
+JOHN
+
+	D, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    MEMBER, DIRECTOR OF THE<br/>
+
+
+    DIVISION OF EXPERIMENTAL HEMATOLOGY<br/>
+
+
+    ST. JUDE CHILDREN?S RESEARCH HOSPITAL<br/>
+
+
+
+
+
+    MEMPHIS,
+
+
+    TN,
+
+
+    38105
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BLACKBURN,
+JESSICA
+
+	S, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR AND CELLULAR BIOCHEMISTRY<br/>
+
+
+    MARKEY CANCER CENTER<br/>
+
+
+
+    UNIVERSITY OF KENTUCKY<br/>
+
+
+
+    LEXINGTON,
+
+
+    KY,
+
+
+    40536
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CASPA GOKULAN,
+RAVINDRAN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR OF RESEARCH<br/>
+
+
+    DIVISION OF SURGICAL ONCOLOGY<br/>
+
+
+    DEWITT DAUGHTRY FAMILY DEPARTMENT OF SURGERY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF MIAMI<br/>
+
+
+
+    MIAMI,
+
+
+    FL,
+
+
+    33146
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+COLLER,
+HILARY
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF BIOLOGICAL CHEMISTRY AND<br/>
+
+
+    MOLECULAR, CELL, AND DEVELOPMENTAL BIOLOGY<br/>
+
+
+    DIRECTOR, MOLECULAR BIOLOGY INSTITUTE<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, LOS ANGELES<br/>
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90095
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CORTEZ,
+DAVID
+
+	K, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    RICHARD ARMSTRONG PROFESSOR FOR INNOVATION IN BIOCHEMISTRY<br/>
+
+
+    CHAIR, DEPARTMENT OF BIOCHEMISTRY<br/>
+
+
+    VANDERBILT UNIVERSITY<br/>
+
+
+
+
+
+    NASHVILLE,
+
+
+    TN,
+
+
+    37232
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DAI,
+MU-SHUI, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR AND MEDICAL GENETICS<br/>
+
+
+    OREGON HEALTH AND SCIENCE UNIVERSITY<br/>
+
+
+
+
+
+    PORTLAND,
+
+
+    OR,
+
+
+    97239
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ELF,
+SHANNON
+
+	ELISABETH, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DIVISION OF HEMATOLOGY AND HEMATOLOGIC<br/>
+
+
+    MALIGNANCIES<br/>
+
+
+    DEPARTMENT OF INTERNAL MEDICINE<br/>
+
+
+    UNIVERSITY OF UTAH<br/>
+
+
+
+    SALT LAKE CITY,
+
+
+    UT,
+
+
+    84112
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+EMANUELE,
+MICHAEL
+
+	JAMES, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    MEMBER, CANCER CELL BIOLOGY PROGRAM<br/>
+
+
+    LINEBERGER COMPREHENSIVE CANCER CENTER<br/>
+
+
+    UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL<br/>
+
+
+
+    CHAPEL HILL,
+
+
+    NC,
+
+
+    27599
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FENG,
+ZHAOHUI, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF RADIATION ONCOLOGY AND PHARMACOLOGY<br/>
+
+
+    RUTGERS CANCER INSTITUTE OF NEW JERSEY<br/>
+
+
+    RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY<br/>
+
+
+
+
+    NEW BRUNSWICK,
+
+
+    NJ,
+
+
+    08903
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FUJITA,
+MAYUMI, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF DERMATOLOGY AND<br/>
+
+
+    IMMUNOLOGY AND MICROBIOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF COLORADO, DENVER<br/>
+
+
+
+    AURORA,
+
+
+    CO,
+
+
+    80111
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GAUTIER,
+JEAN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF GENETICS<br/>
+
+
+    LEADER, CANCER GENETICS AND EPIGENETICS PROGRAM<br/>
+
+
+    HERBERT IRVING COMPREHENSIVE CANCER CENTER<br/>
+
+
+    COLUMBIA UNIVERSITY<br/>
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10032
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GREEN,
+MICHAEL
+
+	RICHARD, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DIVISION OF CANCER MEDICINE<br/>
+
+
+    DEPARTMENT OF LYMPHOMA AND MYELOMA<br/>
+
+
+    UNIVERSITY OF TEXAS MD ANDERSON CANCER CENTER<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HAMBARDZUMYAN,
+DOLORES, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF ONCOLOGICAL SCIENCES<br/>
+
+
+    AND NEUROSURGERY<br/>
+
+
+
+    ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI<br/>
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10029
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KONOPLEVA,
+MARINA
+
+	Y, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF ONCOLOGY AND MOLECULAR PHARMACOLOGY<br/>
+
+
+    DIRECTOR, LEUKEMIA PROGRAM<br/>
+
+
+    ALBERT EINSTEIN COLLEGE OF MEDICINE AND<br/>
+
+
+    MONTEFIORE MEDICAL CENTER<br/>
+
+
+
+    BRONX,
+
+
+    NY,
+
+
+    10461
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LIN,
+WEEI-CHIN, MD, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    DAN L. DUNCAN PROFESSOR OF ONCOLOGY<br/>
+
+
+    SECTION OF HEMATOLOGY AND ONCOLOGY<br/>
+
+
+    DEPARTMENTS OF MEDICINE AND MOLECULAR<br/>
+
+
+    AND CELLULAR BIOLOGY<br/>
+
+
+    BAYLOR COLLEGE OF MEDICINE<br/>
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MANCIAS,
+JOSEPH
+
+	D, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF RADIATION ONCOLOGY<br/>
+
+
+
+    DANA-FARBER CANCER INSTITUTE<br/>
+
+
+
+
+    BOSTON,
+
+
+    MA,
+
+
+    02215
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MARTINEZ,
+LUIS
+
+	ALFONSO, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PATHOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    STONY BROOK UNIVERSITY<br/>
+
+
+
+
+    STONY BROOK,
+
+
+    NY,
+
+
+    11794
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+OH,
+STEPHEN
+
+	TRACY, MD, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR OF MEDICINE<br/>
+
+
+    DIVISION OF HEMATOLOGY<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    WASHINGTON UNIVERSITY<br/>
+
+
+
+    ST. LOUIS,
+
+
+    MO,
+
+
+    63110
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PADDISON,
+PATRICK, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    HUMAN BIOLOGY DIVISION<br/>
+
+
+    FRED HUTCHINSON CANCER CENTER<br/>
+
+
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98109
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PEI,
+HUADONG, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF ONCOLOGY<br/>
+
+
+    GEORGETOWN LOMBARDI COMPREHENSIVE CANCER CENTER<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    GEORGETOWN UNIVERSITY<br/>
+
+
+
+    WASHINGTON,
+
+
+    DC,
+
+
+    20052
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PERERA,
+RUSHIKA
+
+	MIRIAM, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    DEBORAH COWAN ENDOWED ASSOCIATE PROFESSOR<br/>
+
+
+    VICE CHAIR, DEPARTMENT OF ANATOMY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+
+    UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br/>
+
+
+
+    SAN FRANCISCO,
+
+
+    CA,
+
+
+    94143
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RADER,
+JANET
+
+	S, MD
+
+
+
+	*
+	<br/>
+
+
+
+
+    JACK A. AND ELAINE D. KLIEGER PROFESSOR AND CHAIR, OBSTETRICS AND GYNECOLOGY<br/>
+
+
+    DEPARTMENT OF OBSTETRICS AND GYNECOLOGY<br/>
+
+
+
+
+    MEDICAL COLLEGE OF WISCONSIN<br/>
+
+
+
+    MILWAUKEE,
+
+
+    WI,
+
+
+    53226
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RUBIN,
+SETH
+
+	MICHAEL, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMISTRY AND BIOCHEMISTRY<br/>
+
+
+    UNIVERSITY OF CALIFORNIA AT SANTA CRUZ<br/>
+
+
+
+
+
+    SANTA CRUZ,
+
+
+    CA,
+
+
+    95064
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SHIMAMURA,
+TAKESHI, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF SURGERY<br/>
+
+
+    UI CANCER CENTER<br/>
+
+
+    COLLEGE OF MEDICINE<br/>
+
+
+    UNIVERSITY OF ILLINOIS AT CHICAGO<br/>
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60660
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SKORSKI,
+TOMASZ, MD, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR AND DIRECTOR<br/>
+
+
+    DEPARTMENT OF MICROBIOLOGY AND IMMUNOLOGY<br/>
+
+
+    FELS CANCER INSTITUTE FOR PERSONALIZED MEDICINE<br/>
+
+
+    LEWIS KATZ SCHOOL OF MEDICINE<br/>
+
+
+    TEMPLE UNIVERSITY<br/>
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19140
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+STARK,
+JEREMY
+
+	MICHAEL, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF CANCER GENETICS AND EPIGENETICS<br/>
+
+
+    BECKMAN RESEARCH INSTITUTE OF THE CITY OF HOPE<br/>
+
+
+
+
+
+    DUARTE,
+
+
+    CA,
+
+
+    91010
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+STOYANOVA,
+TANYA
+
+	I, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR<br/>
+
+
+    AND MEDICAL PHARMACOLOGY<br/>
+
+
+    DEPARTMENT OF UROLOGY<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, LOS ANGELES<br/>
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90095
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+TOSKA,
+ENEDA, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF ONCOLOGY<br/>
+
+
+    SIDNEY KIMMEL CANCER CENTER<br/>
+
+
+
+    JOHNS HOPKINS UNIVERSITY<br/>
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21287
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WANG,
+XIAO-FAN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    DONALD AND ELIZABETH COOKE PROFESSOR<br/>
+
+
+    DEPARTMENTS OF PHARMACOLOGY<br/>
+
+
+    AND CANCER BIOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27710
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+XIAO,
+WENBIN, PHD, MD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE ATTENDING AND MEMBER<br/>
+
+
+    DEPARTMENT OF PATHOLOGY AND LABORATORY MEDICINE<br/>
+
+
+    MEMORIAL SLOAN KETTERING CANCER CENTER<br/>
+
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10065
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ZHANG,
+QING, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PATHOLOGY<br/>
+
+
+    UT SOUTHWESTERN MEDICAL CENTER<br/>
+
+
+
+
+
+    DALLAS,
+
+
+    TX,
+
+
+    75390
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ZHOU,
+LAN, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND VICE CHAIR FOR RESEARCH<br/>
+
+
+    DEPARTMENT OF PATHOLOGY<br/>
+
+
+    AND GENOMIC MEDICINE<br/>
+
+
+    HOUSTON METHODIST HOSPITAL<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CAO,
+JIAN, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+YEARWOOD,
+YVETTE
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+	<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+    
+    
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/24/2024 12:13:47 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

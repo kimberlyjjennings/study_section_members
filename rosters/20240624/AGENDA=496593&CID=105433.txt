@@ -1,0 +1,1452 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_-825860570|rpid=-1322940103|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs Meeting Roster</title>
+</head>
+
+	<center>
+		<h2>KIDNEY ENDOCRINE AND DIGESTIVE DISORDERS STUDY SECTION</h2>    
+	         
+	             
+	             
+	                 <b>KEDD </b>
+	                 <br>
+	             
+	         
+	         <b>02/08/24 - 
+	         	02/09/24<br/>Meeting Roster</b>
+    </center>
+<br/>
+<br/>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br/>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NARAYAN,
+KABAYAM
+
+	M VENKAT, MD, MBA, MS
+
+
+
+	
+	<br/>
+
+
+
+
+    EXECUTIVE DIRECTOR<br/>
+
+
+    EMORY GLOBAL DIABETES RESEARCH CENTER<br/>
+
+
+    WOODRUFF HEALTH SCIENCES CENTER AND<br/>
+
+
+    EMORY UNIVERSITY<br/>
+
+
+
+
+    ATLANTA,
+
+
+    GA,
+
+
+    30322
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ABEBE,
+KALEAB
+
+	Z, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIVISION OF GENERAL INTERNAL MEDICINE<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    CENTER FOR RESEARCH ON HEALTH CARE DATA CENTER<br/>
+
+
+    UNIVERSITY OF PITTSBURGH<br/>
+
+
+
+    PITTSBURGH,
+
+
+    PA,
+
+
+    15213
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BANCKS,
+MICHAEL
+
+	P, PHD, MPH
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF EPIDEMIOLOGY AND PREVENTION<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    WAKE FOREST UNIVERSITY<br/>
+
+
+
+
+    WINSTON-SALEM,
+
+
+    NC,
+
+
+    27157
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BOONE-HEINONEN,
+JANNE, PHD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    SCHOOL OF PUBLIC HEALTH<br/>
+
+
+    OREGON HEALTH AND SCIENCE UNIVERSITY<br/>
+
+
+
+
+
+    PORTLAND,
+
+
+    OR,
+
+
+    97219
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BORENGASSER,
+SARAH
+
+	J, PHD, MS
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PEDIATRICS<br/>
+
+
+    STEPHENSON CANCER CENTER<br/>
+
+
+    HAROLD HAMM DIABETES CENTER<br/>
+
+
+    UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER<br/>
+
+
+
+    OKLAHOMA CITY,
+
+
+    OK,
+
+
+    73104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHANG,
+ALEXANDER
+
+	R, MD, MS
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEPHROLOGY<br/>
+
+
+    GEISINGER HEALTH<br/>
+
+
+
+
+
+    DANVILLE,
+
+
+    PA,
+
+
+    17822
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DHALIWAL,
+JASBIR, MS, MBBS
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PEDIATRICS<br/>
+
+
+    CINCINNATI CHILDREN?S HOSPITAL MEDICAL CENTER<br/>
+
+
+    UNIVERSITY OF CINCINNATI<br/>
+
+
+
+
+    CINCINNATI,
+
+
+    OH,
+
+
+    45229
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HAHN,
+JAMES
+
+	K, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF COMPUTER SCIENCE<br/>
+
+
+    GEORGE WASHINGTON UNIVERSITY<br/>
+
+
+
+
+
+    WASHINGTON,
+
+
+    DC,
+
+
+    20052
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HU,
+GANG, MD, PHD, MPH
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR AND DIRECTOR<br/>
+
+
+    CHRONIC DISEASE EPIDEMIOLOGY LABORATORY<br/>
+
+
+    PENNINGTON BIOMEDICAL RESEARCH CENTER<br/>
+
+
+    LOUISIANA STATE UNIVERSITY<br/>
+
+
+
+
+    BATON ROUGE,
+
+
+    LA,
+
+
+    70808
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HUSSAIN,
+SHEHNAZ
+
+	K, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH SCIENCES<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF CALIFORNIA-DAVIS<br/>
+
+
+
+
+    SACRAMENTO,
+
+
+    CA,
+
+
+    95814
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JIANG,
+YUCHAO, PHD, MA
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENTS OF STATISTICS AND BIOLOGY<br/>
+
+
+    TEXAS A&amp;M UNIVERSITY<br/>
+
+
+
+
+
+    COLLEGE STATION,
+
+
+    TX,
+
+
+    778433143
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LANGE,
+LESLIE
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL INFORMATICS<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF COLORADO, DENVER<br/>
+
+
+
+
+    AURORA,
+
+
+    CO,
+
+
+    80045
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LI,
+HUILIN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIRECTOR OF MULTI-OMICS STUDY DESIGN AND<br/>
+
+
+    DATA INTEGRATION RESOURCE<br/>
+
+
+    DEPARTMENT OF POPULATION HEALTH<br/>
+
+
+    NEW YORK UNIVERSITY LANGONE HEALTH<br/>
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10016
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LIU,
+WANQING, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACEUTICAL SCIENCES<br/>
+
+
+    EUGENE APPLEBAUM COLLEGE OF PHARMACY<br/>
+
+
+    AND HEALTH SCIENCES<br/>
+
+
+    WAYNE STATE UNIVERSITY<br/>
+
+
+
+    DETROIT,
+
+
+    MI,
+
+
+    48202
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NAVANEETHAN,
+SANKAR DASS, MD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    SECTION OF NEPHROLOGY<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    BAYLOR COLLEGE OF MEDICINE<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77479
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NEYRA,
+JAVIER
+
+	A, MD, MS
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DIVISION OF NEPHROLOGY<br/>
+
+
+    DEPARTMENT OF INTERNAL MEDICINE<br/>
+
+
+    UNIVERSITY OF ALABAMA AT BIRMINGHAM<br/>
+
+
+
+
+    BIRMINGHAM,
+
+
+    AL,
+
+
+    35294
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PURI,
+VISHWAJEET, PHD, MS
+
+
+
+	
+	<br/>
+
+
+
+
+    OSTEOPATHIC HERITAGE FOUNDATION LICKLIDER ENDOWED PROFESSOR IN DIABETES<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL SCIENCES<br/>
+
+
+    OSTEOPATHIC HERITAGE SCHOOL OF MEDICINE<br/>
+
+
+    OHIO UNIVERSITY<br/>
+
+
+
+
+    ATHENS,
+
+
+    OH,
+
+
+    45701
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SCHAUBEL,
+DOUGLAS
+
+	E, PHD, MS
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOSTATISTICS, EPIDEMIOLOGY<br/>
+
+
+    AND INFORMATICS<br/>
+
+
+    UNIVERSITY OF PENNSYLVANIA<br/>
+
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+STRATE,
+LISA
+
+	L, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIVISION OF GASTROENTEROLOGY<br/>
+
+
+    HARBORVIEW MEDICAL CENTER<br/>
+
+
+    UNIVERSITY OF WASHINGTON SCHOOL OF MEDICINE<br/>
+
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MAIL REVIEWER<br> --------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NAISHADHAM,
+KRISHNA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PRESIDENT AND CHIEF SCIENTIST<br/>
+
+
+    WI-SENSE LLC <br/>
+
+
+
+
+
+
+    SMYRNA,
+
+
+    GA,
+
+
+    30082
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SMITH,
+ROLAND
+
+	T, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR OF OPHTHALMOLOGY AND NEUROSCIENCE<br/>
+
+
+    DIRECTOR OF BIOMOLECULAR RETINAL IMAGING<br/>
+
+
+    NEW YORK EYE AND EAR INFIRMARY<br/>
+
+
+    ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI<br/>
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10032
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FRENK,
+STEVEN
+
+	M, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MIRANDA,
+LYDIA
+
+	D
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+	<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+    
+    
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/24/2024 12:15:24 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

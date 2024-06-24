@@ -1,0 +1,2215 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_-1678330709|rpid=-1213428859|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs Meeting Roster</title>
+</head>
+
+	<center>
+		<h2>ADULT PSYCHOPATHOLOGY AND DISORDERS OF AGING STUDY SECTION</h2>    
+	         
+	             
+	             
+	                 <b>APDA </b>
+	                 <br>
+	             
+	         
+	         <b>06/20/24 - 
+	         	06/21/24<br/>Meeting Roster</b>
+    </center>
+<br/>
+<br/>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br/>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+TAYLOR,
+WARREN
+
+	D, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND BEHAVIORAL SCIENCES<br/>
+
+
+    VANDERBILT UNIVERSITY MEDICAL CENTER<br/>
+
+
+
+
+
+    NASHVILLE,
+
+
+    TN,
+
+
+    37212
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+AICHELE,
+STEPHEN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF HUMAN DEVELOPMENT<br/>
+
+
+    AND FAMILY STUDIES<br/>
+
+
+    COLORADO STATE UNIVERSITY<br/>
+
+
+
+
+    FORT COLLINS,
+
+
+    CO,
+
+
+    80523
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+AUPPERLE,
+ROBIN
+
+	L, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    LAUREATE INSTITUTE FOR BRAIN RESEARCH<br/>
+
+
+    SCHOOL OF COMMUNITY MEDICINE<br/>
+
+
+    UNIVERSITY OF TULSA<br/>
+
+
+
+
+    TULSA,
+
+
+    OK,
+
+
+    74136
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BALDERSTON,
+NICHOLAS
+
+	L, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UNIVERSITY OF PENNSYLVANIA<br/>
+
+
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHIONG,
+WINSTON, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGY<br/>
+
+
+    MEMORY AND AGING CENTER<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br/>
+
+
+
+
+    SAN FRANCISCO,
+
+
+    CA,
+
+
+    94158
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHOU,
+YING-HUI, DSC
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    UNIVERSITY OF ARIZONA<br/>
+
+
+
+
+
+    TUCSON,
+
+
+    AZ,
+
+
+    85721
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DINIZ,
+BRENO
+
+	S, PHD, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND CENTER ON AGING<br/>
+
+
+    THE UNIVERSITY OF CONNECTICUT HEALTH CENTER<br/>
+
+
+
+
+
+    FARMINGTON,
+
+
+    CT,
+
+
+    06030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DIXON-GORDON,
+KATHERINE
+
+	LEE, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGICAL AND BRAIN SCIENCES<br/>
+
+
+    UNIVERSITY OF MASSACHUSETTS AMHERST<br/>
+
+
+
+
+
+    AMHERST,
+
+
+    MA,
+
+
+    01003
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+EISENLOHR-MOUL,
+TORY
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND PSYCHOLOGY<br/>
+
+
+    UNIVERSITY OF ILLINOIS AT CHICAGO<br/>
+
+
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60612
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FOURNIER,
+JAY
+
+	C, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND BEHAVIORAL HEALTH<br/>
+
+
+    THE OHIO STATE UNIVERSITY<br/>
+
+
+
+
+
+    COLUMBUS,
+
+
+    OH,
+
+
+    43210
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FRANK,
+GUIDO
+
+	KW, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN DIEGO<br/>
+
+
+
+
+
+    SAN DIEGO,
+
+
+    CA,
+
+
+    92121
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GIRGIS,
+RAGY
+
+	R, MD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    NEW YORK STATE PSYCHIATRIC INSTITUTE<br/>
+
+
+    COLUMBIA UNIVERSITY<br/>
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10032
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GUNSTAD,
+JOHN
+
+	J, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    KENT STATE UNIVERSITY<br/>
+
+
+
+
+
+    KENT,
+
+
+    OH,
+
+
+    44242
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HAIGH,
+SARAH
+
+	M, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    CENTER FOR INTEGRATIVE NEUROSCIENCE<br/>
+
+
+    UNIVERSITY OF NEVADA RENO<br/>
+
+
+
+
+    RENO,
+
+
+    NV,
+
+
+    89557
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HAWCO,
+COLIN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    CENTRE FOR ADDICTION AND MENTAL HEALTH<br/>
+
+
+    UNIVERSITY OF TORONTO<br/>
+
+
+
+
+    TORONTO,
+
+
+    ON,
+
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HAYNOS,
+ANN
+
+	F, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    VIRGINIA COMMONWEALTH UNIVERSITY<br/>
+
+
+
+
+
+    RICHMOND,
+
+
+    VA,
+
+
+    23284
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+IVLEVA,
+ELENA
+
+	I, MD, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UT SOUTHWESTERN MEDICAL CENTER<br/>
+
+
+
+
+
+    DALLAS,
+
+
+    TX,
+
+
+    75390
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JONES,
+NEIL
+
+	P, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UNIVERSITY OF PITTSBURGH<br/>
+
+
+
+
+
+    PITTSBURGH,
+
+
+    PA,
+
+
+    15213
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KRAMER,
+ARTHUR
+
+	F, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    CENTER FOR COGNITIVE AND BRAIN HEALTH<br/>
+
+
+    NORTHEASTERN UNIVERSITY<br/>
+
+
+
+
+    BOSTON,
+
+
+    MA,
+
+
+    02120
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LAMAR,
+MELISSA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND BEHAVIORAL SCIENCES<br/>
+
+
+    RUSH ALZHEIMER&#039;S DISEASE CENTER<br/>
+
+
+    RUSH UNIVERSITY MEDICAL CENTER<br/>
+
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60612
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LEE,
+JUNGHEE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND<br/>
+
+
+    BEHAVIORAL NEUROBIOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF ALABAMA AT BIRMINGHAM<br/>
+
+
+
+    BIRMINGHAM,
+
+
+    AL,
+
+
+    35294
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LIPPARD,
+ELIZABETH, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND<br/>
+
+
+    BEHAVIORAL SCIENCES<br/>
+
+
+    DELL MEDICAL SCHOOL<br/>
+
+
+    THE UNIVERSITY OF TEXAS AT AUSTIN<br/>
+
+
+
+    AUSTIN,
+
+
+    TX,
+
+
+    78712
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MCEVOY,
+LINDA
+
+	K, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SENIOR INVESTIGATOR<br/>
+
+
+    KAISER PERMANENTE WASHINGTON HEALTH<br/>
+
+
+    RESEARCH INSTITUTE<br/>
+
+
+    KAISER FOUNDATION RESEARCH INSTITUTE<br/>
+
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98101
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MILAD,
+MOHAMMED
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND BEHAVIORAL SCIENCES<br/>
+
+
+    UNIVERSITY OF TEXAS HEALTH HOUSTON<br/>
+
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77054
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MITTAL,
+VIJAY
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    NORTHWESTERN UNIVERSITY<br/>
+
+
+
+
+
+    EVANSTON,
+
+
+    IL,
+
+
+    60208
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MOSER,
+JASON
+
+	S, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    MICHIGAN STATE UNIVERSITY<br/>
+
+
+
+
+
+    EAST LANSING,
+
+
+    MI,
+
+
+    48824
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MUJICA-PARODI,
+LILIANNE
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    STONY BROOK UNIVERSITY SCHOOL OF MEDICINE<br/>
+
+
+
+
+
+    STONY BROOK,
+
+
+    NY,
+
+
+    11794
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SCHATTEN,
+HEATHER, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND HUMAN BEHAVIOR<br/>
+
+
+    BUTLER HOSPITAL<br/>
+
+
+    BROWN UNIVERSITY<br/>
+
+
+
+
+    PROVIDENCE,
+
+
+    RI,
+
+
+    02906
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SHACKMAN,
+ALEXANDER
+
+	J, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+    UNIVERSITY OF MARYLAND, COLLEGE PARK<br/>
+
+
+
+
+
+    COLLEGE PARK,
+
+
+    MD,
+
+
+    20742
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SOLOMONOV,
+NILI, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    WEILL CORNELL MEDICAL COLLEGE<br/>
+
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10065
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SPONHEIM,
+SCOTT
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UNIVERSITY OF MINNESOTA<br/>
+
+
+
+
+
+    MINNEAPOLIS,
+
+
+    MN,
+
+
+    55417
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+STRAUMAN,
+TIMOTHY
+
+	J, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY AND NEUROSCIENCE<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27708
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+THOMPSON,
+RENEE
+
+	J, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGICAL AND BRAIN SCIENCES<br/>
+
+
+    WASHINGTON UNIVERSITY IN ST LOUIS<br/>
+
+
+
+
+
+    ST LOUIS,
+
+
+    MO,
+
+
+    63130
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WALTZ,
+JAMES
+
+	A, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY<br/>
+
+
+    UNIVERSITY OF MARYLAND SCHOOL OF MEDICINE<br/>
+
+
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21228
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WANG,
+CUILING, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENTS OF EPIDEMIOLOGY<br/>
+
+
+    AND POPULATION HEALTH<br/>
+
+
+    ALBERT EINSTEIN COLLEGE OF MEDICINE<br/>
+
+
+
+
+    BRONX,
+
+
+    NY,
+
+
+    10461
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+YOON,
+JONG
+
+	H, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHIATRY AND BEHAVIORAL SCIENCES<br/>
+
+
+    STANFORD UNIVERSITY<br/>
+
+
+
+
+
+    STANFORD,
+
+
+    CA,
+
+
+    94305
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SHAPERO,
+BENJAMIN
+
+	G, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GRUCELLA,
+BRANDY
+
+	L
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+	<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+    
+    
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/24/2024 12:13:35 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
