@@ -1,0 +1,1419 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_-1967479670|rpid=-500468870|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs SEP's Meeting Rosters</title>
+</head>
+
+
+<center>
+<h2>CENTER FOR SCIENTIFIC REVIEW SPECIAL EMPHASIS PANEL</h2>
+         
+         
+         
+             <b>ZRG1 &nbsp;BBBT
+                 - K (03)</b><br>
+             MEMBER CONFLICT: BIOMATERIALS, DRUG DELIVERY AND INSTRUMENTATION
+             <br>
+         
+         
+         
+         
+         <b>07/10/24 - 07/10/24<br>
+             Meeting Roster</b>
+</cfoutput>
+</center>
+<br>
+<br>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ANVARI,
+BAHMAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOENGINEERING<br/>
+
+
+    UNIVERSITY OF CALIFORNIA AT RIVERSIDE<br/>
+
+
+
+
+
+    RIVERSIDE,
+
+
+    CA,
+
+
+    92521
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ALVAREZ,
+NOE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMISTRY<br/>
+
+
+    UNIVERSITY OF CINCINNATI<br/>
+
+
+
+
+
+    CINCINNATI,
+
+
+    OH,
+
+
+    45221
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BERTHIAUME,
+FRANCOIS, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    RUTGERS, THE STATE UNIVERSITY OF NEW JERSEY<br/>
+
+
+
+
+
+    PISCATAWAY,
+
+
+    NJ,
+
+
+    08854
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BHATT,
+KETAN
+
+	H, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    DIRECTOR<br/>
+
+
+    BIOMEDICAL, ENERGY &amp; MATERIALS DIVISION<br/>
+
+
+    CFD RESEARCH CORPORATION<br/>
+
+
+
+
+
+    HUNTSVILLE,
+
+
+    AL,
+
+
+    358062900
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHENG,
+HAO, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MATERIALS SCIENCE AND ENGINEERING<br/>
+
+
+    DREXEL UNIVERSITY<br/>
+
+
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHUMBIMUNI-TORRES,
+KARIN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMISTRY<br/>
+
+
+    UNIVERSITY OF CENTRAL FLORIDA<br/>
+
+
+
+
+
+    ORLANDO,
+
+
+    FL,
+
+
+    32816
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DICKERSON,
+IAN
+
+	M, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROBIOLOGY AND ANATOMY<br/>
+
+
+    UNIVERSITY OF ROCHESTER<br/>
+
+
+
+
+
+    ROCHESTER,
+
+
+    NY,
+
+
+    14643
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GALLIPPI,
+CATERINA
+
+	M, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    UNIVERSITY OF NORTH CAROLINA<br/>
+
+
+
+
+
+    CHAPEL HILL,
+
+
+    NC,
+
+
+    27599
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HETTIARATCHI,
+MARIAN
+
+	HIRUSHIKA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOENGINEERING<br/>
+
+
+    UNIVERSITY OF OREGON<br/>
+
+
+
+
+
+    EUGENE,
+
+
+    OR,
+
+
+    97403
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JOHNSON,
+LEAH, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH CHEMIST<br/>
+
+
+    DISCOVERY SCIENCES AND TECHNOLOGY<br/>
+
+
+    RTI INTERNATIONAL<br/>
+
+
+    RESEARCH TRIANGLE PARK<br/>
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27709
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KUMBAR,
+SANGAMESH
+
+	GURAPPA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF ORTHOPAEDIC SURGERY<br/>
+
+
+    UNIVERSITY OF CONNECTICUT HEALTH CENTER<br/>
+
+
+
+
+
+    FARMINGTON,
+
+
+    CT,
+
+
+    06030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MOHIUDDIN,
+MUHAMMAD
+
+	M, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF SURGERY<br/>
+
+
+    PROGRAM IN CARDIAC XENOTRANSPLANTATION<br/>
+
+
+    UNIVERSITY OF MARYLAND SCHOOL OF MEDICINE<br/>
+
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21201
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NG,
+CARLA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF CIVIL AND<br/>
+
+
+    ENVIRONMENTAL ENGINEERING<br/>
+
+
+    SWANSON SCHOOL OF ENGINEERING<br/>
+
+
+    UNIVERSITY OF PITTSBURG<br/>
+
+
+
+    PITTSBURG,
+
+
+    PA,
+
+
+    15261
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RIEDE,
+TOBIAS, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHYSIOLOGY<br/>
+
+
+    MIDWESTERN UNIVERSITY<br/>
+
+
+
+
+
+    GLENDALE,
+
+
+    AZ,
+
+
+    85308
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ROGALLA,
+STEPHAN, PHD, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF GASTROENTEROLOGY AND HEPATOLOGY<br/>
+
+
+    STANFORD UNIVERSITY<br/>
+
+
+
+
+
+    STANFORD,
+
+
+    CA,
+
+
+    94305
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RUIZ-LOZANO,
+PILAR, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    CHIEF SCIENTIFIC OFFICER<br/>
+
+
+    REGENCOR, INC.<br/>
+
+
+
+
+
+
+    SAN CARLOS,
+
+
+    CA,
+
+
+    94070
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SIMS,
+PETER
+
+	ALAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOCHEMISTRY<br/>
+
+
+    AND MOLECULAR BIOPHYSICS<br/>
+
+
+
+    COLUMBIA UNIVERSITY<br/>
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10032
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+STOPPEL,
+WHITNEY
+
+	L, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMICAL ENGINEERING<br/>
+
+
+    UNIVERSITY OF FLORIDA<br/>
+
+
+
+
+
+    GAINESVILLE,
+
+
+    FL,
+
+
+    32606
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+TREWYN,
+BRIAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMISTRY<br/>
+
+
+    AND MATERIAL SCIENCE<br/>
+
+
+    COLORADO SCHOOL OF MINES<br/>
+
+
+
+
+    GOLDEN,
+
+
+    CO,
+
+
+    80401
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WANG,
+CHAO, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    BIODESIGN CENTER FOR MOLECULAR DESIGN<br/>
+
+
+    AND BIOMIMETICS<br/>
+
+
+    IRA A. FULTON SCHOOLS OF ENGINEERING<br/>
+
+
+    ARIZONA STATE UNIVERSITY<br/>
+
+
+
+    TEMPE,
+
+
+    AZ,
+
+
+    85281
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+YUAN,
+FAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27708
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KRISHNARAJU,
+RAJ
+
+	K, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BARCLAY,
+EULIS
+
+	I
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT LEADS<br/>
+
+
+    BIOENGINEERING SCIENCES &amp; TECHNOLOGIES IRG<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+		<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+
+
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/27/2024 01:49:05 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

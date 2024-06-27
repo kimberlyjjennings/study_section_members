@@ -1,0 +1,2565 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_-1967511383|rpid=997833213|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs SEP's Meeting Rosters</title>
+</head>
+
+
+<center>
+<h2>CENTER FOR SCIENTIFIC REVIEW SPECIAL EMPHASIS PANEL</h2>
+         
+         
+         
+             <b>ZRG1 &nbsp;HSS
+                 - P (90)</b><br>
+             TOPICS IN HEALTH SERVICES RESEARCH, MATERNAL AND CHILD HEALTH, AGING, AND SUBSTANCE USE
+             <br>
+         
+         
+         
+         
+         <b>07/11/24 - 07/12/24<br>
+             Meeting Roster</b>
+</cfoutput>
+</center>
+<br>
+<br>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SAMBAMOORTHI,
+USHA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND ASSOCIATE DEAN OF HEALTH OUTCOMES RESEARCH<br/>
+
+
+    COLLEGE OF PHARMACY<br/>
+
+
+    THE UNIVERSITY OF NORTH TEXAS<br/>
+
+
+    HEALTH SCIENCES CENTER AT FORT WORTH<br/>
+
+
+
+
+    FORT WORTH,
+
+
+    TX,
+
+
+    76107
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ADJEI BOAKYE,
+ERIC, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH ASSOCIATE<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH SCIENCES<br/>
+
+
+    HENRY FORD HEALTH SYSTEM<br/>
+
+
+    MICHIGAN STATE UNIVERSITY<br/>
+
+
+
+
+    DETROIT,
+
+
+    MI,
+
+
+    48202
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+AVERBACH,
+SARAH, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF OBSTETRICS, GYNECOLOGY, AND<br/>
+
+
+    REPRODUCTIVE SERVICES<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN DIEGO<br/>
+
+
+
+
+    LA JOLLA,
+
+
+    CA,
+
+
+    92037
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BARTHOLD,
+DOUGLAS, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH ASSISTANT PROFESSOR<br/>
+
+
+    COMPARATIVE HEALTH OUTCOMES, POLICY,<br/>
+
+
+    AND ECONOMICS (CHOICE) INSTITUTE<br/>
+
+
+    DEPARTMENT OF PHARMACY<br/>
+
+
+    UNIVERSITY OF WASHINGTON<br/>
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98195
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BAUER,
+MELISSA, DO
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF ANESTHESIOLOGY<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27710
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BERLOWITZ,
+DAN
+
+	R, MD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH<br/>
+
+
+    UNIVERSITY OF MASSACHUSETTS-LOWELL<br/>
+
+
+
+
+
+    LOWELL,
+
+
+    MA,
+
+
+    01854
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BROWN,
+RANDALL
+
+	T, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF FAMILY MEDICINE<br/>
+
+
+    AND COMMUNITY HEALTH<br/>
+
+
+
+    UNIVERSITY OF WISCONSIN<br/>
+
+
+
+    MADISON,
+
+
+    WI,
+
+
+    53715
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BURRIS,
+HEATHER
+
+	HERSON, MD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PEDIATRICS<br/>
+
+
+    CHILDREN HOSPITAL OF PHILADELPHIA<br/>
+
+
+    UNIVERSITY OF PENNSYLVANIA<br/>
+
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CASKEY,
+RACHEL, MD, MA
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    UNIVERSITY OF CHICAGO<br/>
+
+
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60612
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHANDLER,
+RASHEETA, RN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    SCHOOL OF NURSING<br/>
+
+
+    EMORY UNIVERSITY<br/>
+
+
+
+
+
+    ATLANTA,
+
+
+    GA,
+
+
+    30322
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHEN,
+YOU, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR OF BIOMEDICAL INFORMATICS<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL INFORMATICS<br/>
+
+
+    VANDERBILT UNIVERSITY MEDICAL CENTER<br/>
+
+
+
+
+
+    NASHVILLE,
+
+
+    TN,
+
+
+    37203
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+COLE,
+MEGAN
+
+	B., PHD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF HEALTH LAW, POLICY, AND MANAGEMENT<br/>
+
+
+    BOSTON UNIVERSITY<br/>
+
+
+
+
+
+    BOSTON,
+
+
+    MA,
+
+
+    02118
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+COLEY,
+YATES, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE INVESTIGATOR<br/>
+
+
+    BIOSTATISTICS UNIT<br/>
+
+
+    KAISER PERMANENTE WASHINGTON<br/>
+
+
+    HEALTH RESEARCH INSTITUTE<br/>
+
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98101
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DANILA,
+MARIA
+
+	IOANA, MD, MSPH
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIVISION OF CLINICAL IMMUNOLOGY AND RHEUMATOLOGY<br/>
+
+
+    UNIVERSITY OF ALABAMA AT BIRMINGHAM<br/>
+
+
+
+
+
+    BIRMINGHAM,
+
+
+    AL,
+
+
+    35294
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DICKSON,
+KELSEY
+
+	S, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    3020 CHILDREN&#039;S WAY MC5033<br/>
+
+
+
+
+
+
+    SAN DIEGO,
+
+
+    CA,
+
+
+    92123
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DUDOVITZ,
+REBECCA
+
+	N, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR AND CHIEF<br/>
+
+
+    DIVISION OF PEDIATRICS<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, LOS ANGELES<br/>
+
+
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90095
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GEISSLER,
+KIMBERLEY LYNN
+
+	H, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    DIVISION CHIEF, DIVISION OF HEALTH EQUITY AND HEALTH SERVICES RESEARCH<br/>
+
+
+    DEPARTMENT OF HEALTHCARE DELIVERY AND<br/>
+
+
+    POPULATION SCIENCES RESEARCH<br/>
+
+
+    BAYSTATE HEALTH<br/>
+
+
+    UNIVERSITY OF MASSACHUSETTS<br/>
+
+
+
+    AMHERST,
+
+
+    MA,
+
+
+    01003
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GELLAD,
+WALID
+
+	F., MD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DIVISION OF GENERAL INTERNAL MEDICINE<br/>
+
+
+    CENTER FOR PHARMACEUTICAL POLICY AND PRESCRIBING<br/>
+
+
+    UNIVERSITY OF PITTSBURGH<br/>
+
+
+
+
+    PITTSBURGH,
+
+
+    PA,
+
+
+    15261
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GILKEY,
+MELISSA
+
+	B, PHD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF HEALTH BEHAVIOR<br/>
+
+
+    UNIVERSITY OF NORTH CAROLINA, CHAPEL HILL<br/>
+
+
+
+
+
+    CHAPEL HILL,
+
+
+    NC,
+
+
+    27599
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GONG,
+YANG, PHD, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    SCHOOL OF BIOMEDICAL INFORMATICS<br/>
+
+
+    UNIVERSITY OF TEXAS<br/>
+
+
+    HEALTH SCIENCE CENTER AT HOUSTON<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GOODKIND,
+JESSICA
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND ASSOCIATE CHAIR<br/>
+
+
+    DEPARTMENT OF SOCIOLOGY<br/>
+
+
+    UNIVERSITY OF NEW MEXICO<br/>
+
+
+
+
+
+    ALBUQUERQUE,
+
+
+    NM,
+
+
+    87131
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GRUCZA,
+RICHARD
+
+	A, PHD, MPE
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF FAMILY, COMMUNITY MEDICINE,<br/>
+
+
+    HEALTH AND CLINICAL OUTCOMES RESEARCH<br/>
+
+
+    ST. LOUIS UNIVERSITY<br/>
+
+
+
+
+    SAINT LOUIS,
+
+
+    MO,
+
+
+    63103
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GRUDZEN,
+CORITA
+
+	R, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    FERN GRAYER CHAIR IN ONCOLOGY AND PATIENT EXPERIENCE<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    DIVISION OF SUPPORTIVE AND ACUTE CARE SERVICES<br/>
+
+
+    MEMORIAL SLOAN KETTERING CANCER CENTER<br/>
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10065
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GUASTAFERRO,
+KATELYN, MPH, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF SOCIAL AND BEHAVIORAL SCIENCES<br/>
+
+
+    CENTER FOR ADVANCEMENT AND DISSEMINATION OF<br/>
+
+
+    INTERVENTION OPTIMIZATION<br/>
+
+
+    NEW YORK UNIVERSITY<br/>
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10003
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HALAMEK,
+LOUIS
+
+	PATRICK, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIVISION OF NEONATAL AND DEVELOPMENTAL MEDICINE<br/>
+
+
+    STANFORD UNIVERSITY<br/>
+
+
+
+
+
+    PALO ALTO,
+
+
+    CA,
+
+
+    94305
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JALAL,
+HAWRE, MBBS, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    SCHOOL OF EPIDEMIOLOGY AND PUBLIC HEALTH<br/>
+
+
+    UNIVERSITY OF OTTAWA<br/>
+
+
+
+
+
+    OTTAWA,
+
+
+    ON,
+
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KOWALKOWSKI,
+MARC, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR AND ASSOCIATE CHIEF OF RESEARCH<br/>
+
+
+    SECTION OF HOSPITAL MEDICINE<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    WAKE FOREST UNIVERSITY<br/>
+
+
+
+
+    WINSTON-SALEM,
+
+
+    NC,
+
+
+    27101
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LI,
+YUE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DIVISION OF HEALTH POLICY AND OUTCOMES RESEARCH<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH SCIENCES<br/>
+
+
+    UNIVERSITY OF ROCHESTER MEDICAL CENTER<br/>
+
+
+
+
+    ROCHESTER,
+
+
+    NY,
+
+
+    14642
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LINDNER,
+STEPHAN
+
+	REINHARD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF EMERGENCY MEDICINE<br/>
+
+
+    OREGON HEALTH AND SCIENCE UNIVERSITY<br/>
+
+
+
+
+
+    PORTLAND,
+
+
+    OR,
+
+
+    97201
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LIU,
+JENNY
+
+	XIN, MPP, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF SOCIAL AND BEHAVIORAL SCIENCES<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br/>
+
+
+
+
+
+    SAN FRANCISCO,
+
+
+    CA,
+
+
+    94158
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MOGHTADERI,
+ALI, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF HEALTH POLICY AND MANAGEMENT<br/>
+
+
+    GEORGE WASHINGTON UNIVERSITY<br/>
+
+
+
+
+
+    WASHINGTON,
+
+
+    DC,
+
+
+    20052
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NGUYEN,
+THUY
+
+	DIEU, PHD, MPA
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF HEALTH MANAGEMENT AND POLICY<br/>
+
+
+    UNIVERSITY OF MICHIGAN, ANN ARBOR<br/>
+
+
+
+
+
+    ANN ARBOR,
+
+
+    MI,
+
+
+    48105
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+OSAKWE,
+ZAINAB
+
+	TOTEH, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    COLLEGE OF NURSING AND PUBLIC HEALTH<br/>
+
+
+    ADELPHI UNIVERSITY<br/>
+
+
+
+
+
+    GARDEN CITY,
+
+
+    NY,
+
+
+    11530
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PARK,
+HAESUK, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACEUTICAL OUTCOMES AND POLICY<br/>
+
+
+    UNIVERSITY OF FLORIDA<br/>
+
+
+
+
+
+    GAINESVILLE,
+
+
+    FL,
+
+
+    32610
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PEREZ,
+HECTOR
+
+	RUBEN, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MEDICINE<br/>
+
+
+    ALBERT EINSTEIN COLLEGE OF MEDICINE<br/>
+
+
+
+
+
+    BRONX,
+
+
+    NY,
+
+
+    10467
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PRATT,
+REBEKAH
+
+	J, BSOCSCI, MSOCSCI, PHD, PGDCOMMPSY
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR AND INTERIM VICE CHAIR FOR RESEARCH<br/>
+
+
+    DEPARTMENT OF FAMILY MEDICINE AND COMMUNITY HEALTH<br/>
+
+
+    UNIVERSITY OF MINNESOTA<br/>
+
+
+
+
+
+    MINNEAPOLIS,
+
+
+    MN,
+
+
+    55414
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PRICE,
+MAGGI, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    SCHOOL OF SOCIAL WORK<br/>
+
+
+    BOSTON COLLEGE<br/>
+
+
+
+
+
+    CHESTNUT HILL,
+
+
+    MA,
+
+
+    02467
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+QEADAN,
+FARES, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH SCIENCES<br/>
+
+
+    LOYOLA UNIVERSITY CHICAGO<br/>
+
+
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60660
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RHEE,
+TAEHO
+
+	GREGORY, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PUBLIC HEALTH SCIENCES<br/>
+
+
+    UNIVERSITY OF CONNECTICUT<br/>
+
+
+    YALE UNIVERSITY<br/>
+
+
+
+
+    FARMINGTON,
+
+
+    CT,
+
+
+    06030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SEGAL,
+JODI
+
+	B., MD, MPH
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    JOHNS HOPKINS UNIVERSITY<br/>
+
+
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21205
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SHIER,
+VICTORIA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH SCIENTIST<br/>
+
+
+    SCHAEFFER CENTER FOR HEALTH POLICY AND ECONOMICS<br/>
+
+
+    UNIVERSITY OF SOUTHERN CALIFORNIA<br/>
+
+
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90089
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+VULLIKANTI,
+ANIL, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF COMPUTER SCIENCE<br/>
+
+
+
+
+    UNIVERSITY OF VIRGINIA<br/>
+
+
+
+    CHARLOTTESVILLE,
+
+
+    VA,
+
+
+    22904
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WEI,
+YU-JUNG, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DIVISION OF OUTCOMES AND TRANSLATIONAL SCIENCES<br/>
+
+
+    THE OHIO STATE UNIVERSITY<br/>
+
+
+
+
+
+    COLUMBUS,
+
+
+    OH,
+
+
+    43210
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PENNEY,
+LAUREN
+
+	SUSAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NJOKU,
+PHILIP
+
+	C
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+		<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+
+
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/27/2024 01:49:12 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

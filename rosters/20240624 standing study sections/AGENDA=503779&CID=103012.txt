@@ -1,0 +1,2090 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_949722882|rpid=1269333095|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs Meeting Roster</title>
+</head>
+
+	<center>
+		<h2>NEURAL OXIDATIVE METABOLISM AND DEATH STUDY SECTION</h2>    
+	         
+	             
+	             
+	                 <b>NOMD </b>
+	                 <br>
+	             
+	         
+	         <b>06/11/24 - 
+	         	06/12/24<br/>Meeting Roster</b>
+    </center>
+<br/>
+<br/>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br/>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RATAN,
+RAJIV
+
+	R, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND DIRECTOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGY AND NEUROSCIENCE<br/>
+
+
+    BURKE NEUROLOGICAL INSTITUTE<br/>
+
+
+    WEILL CORNELL MEDICINE<br/>
+
+
+
+
+    WHITE PLAINS,
+
+
+    NY,
+
+
+    10605
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ANDRABI,
+SHAIDA
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    AND TOXICOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF ALABAMA AT BIRMINGHAM<br/>
+
+
+
+    BIRMINGHAM,
+
+
+    AL,
+
+
+    35294
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BACHSTETTER,
+ADAM
+
+	D, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROSCIENCE<br/>
+
+
+
+    UNIVERSITY OF KENTUCKY<br/>
+
+
+
+
+    LEXINGTON,
+
+
+    KY,
+
+
+    40502
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHIARAMELLO,
+ANNE
+
+	ELIANE, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF ANATOMY<br/>
+
+
+    AND REGENERATIVE BIOLOGY<br/>
+
+
+    GEORGE WASHINGTON UNIVERSITY MEDICAL CENTER<br/>
+
+
+
+
+    WASHINGTON,
+
+
+    DC,
+
+
+    20037
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DIAZ GARCIA,
+CARLOS MANLIO, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOCHEMISTRY<br/>
+
+
+    AND MOLECULAR BIOLOGY<br/>
+
+
+    CENTER FOR GEROSCIENCE AND HEALTHY BRAIN AGING<br/>
+
+
+    UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER<br/>
+
+
+
+    OKLAHOMA CITY,
+
+
+    OK,
+
+
+    73104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HARDWICK,
+J MARIE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND VICE CHAIR OF RESEARCH<br/>
+
+
+    DEPARTMENT OF MOLECULAR MICROBIOLOGY<br/>
+
+
+    AND IMMUNOLOGY<br/>
+
+
+
+    JOHNS HOPKINS UNIVERSITY<br/>
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21205
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HECKMANN,
+BRADLEE
+
+	L, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR MEDICINE<br/>
+
+
+    MORSANI COLLEGE OF MEDICINE<br/>
+
+
+
+    UNIVERSITY OF SOUTHERN FLORIDA<br/>
+
+
+
+    TAMPA,
+
+
+    FL,
+
+
+    33613
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+IBRAHIM,
+AHMED
+
+	S, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    WAYNE STATE UNIVERSITY<br/>
+
+
+
+
+    DETROIT,
+
+
+    MI,
+
+
+    48201
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JADIYA,
+POOJA, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF INTERNAL MEDICINE<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    WAKE FOREST UNIVERSITY<br/>
+
+
+
+
+    WISTON-SALEM,
+
+
+    NC,
+
+
+    27157
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KIM,
+YUHO, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHYSICAL THERAPY<br/>
+
+
+    AND KINESIOLOGY<br/>
+
+
+    UNIVERSITY OF MASSACHUSETTS LOWELL<br/>
+
+
+
+
+    LOWELL,
+
+
+    MA,
+
+
+    01854
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KISELYOV,
+KIRILL, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOLOGICAL SCIENCES<br/>
+
+
+    UNIVERSITY OF PITTSBURGH<br/>
+
+
+
+
+
+    PITTSBURGH,
+
+
+    PA,
+
+
+    15260
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KRETZSCHMAR,
+DORIS, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR<br/>
+
+
+    AND MEDICAL GENETICS<br/>
+
+
+    OREGON HEALTH AND SCIENCES<br/>
+
+
+
+
+    UNIVERSITY PORTLAND,
+
+
+    OR,
+
+
+    97239
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LIAO,
+FRANCESCA-FANG, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND VICE CHAIR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    UNIVERSITY OF TENNESEE HEALTH SCIENCE CENTER<br/>
+
+
+
+
+
+    MEMPHIS,
+
+
+    TN,
+
+
+    38163
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LINSEMAN,
+DANIEL
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOLOGICAL SCIENCES<br/>
+
+
+    UNIVERSITY OF DENVER<br/>
+
+
+
+
+
+    DENVER,
+
+
+    CO,
+
+
+    303875
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LLORENTE,
+IRENE
+
+	LORENZO, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROSURGERY<br/>
+
+
+    STANFORD UNIVERSITY<br/>
+
+
+
+
+
+    STANFORD,
+
+
+    CA,
+
+
+    94305
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LUO,
+YU, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND VICE CHAIR FOR RESEARCH<br/>
+
+
+    DEPARTMENT OF MOLECULAR<br/>
+
+
+    AND CELLULAR BIOSCIENCES<br/>
+
+
+    COLLEGE OF MEDICINE<br/>
+
+
+    UNIVERSITY OF CINCINNATI<br/>
+
+
+
+    CINCINNATI,
+
+
+    OH,
+
+
+    45221
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MAHER,
+PAMELA
+
+	ANNE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH PROFESSOR<br/>
+
+
+    DEPARTMENT OF CELLULAR NEUROBIOLOGY LABORATORY<br/>
+
+
+    THE SALK INSTITUTE FOR BIOLOGICAL STUDIES<br/>
+
+
+
+
+
+    LA JOLLA,
+
+
+    CA,
+
+
+    92037
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MORE,
+SWATI
+
+	S, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    CENTER FOR DRUG DESIGN<br/>
+
+
+    COLLEGE OF PHARMACY<br/>
+
+
+    UNIVERSITY OF MINNESOTA<br/>
+
+
+
+
+    MINNEAPOLIS,
+
+
+    MN,
+
+
+    55455
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+NAKAMURA,
+KEN, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGY<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN FRANCISCO<br/>
+
+
+    INVESTIGATOR, GLADSTONE INSTITUTES<br/>
+
+
+
+
+    SAN FRANCISCO,
+
+
+    CA,
+
+
+    94158
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PEKKURNAZ,
+GULCIN, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROBIOLOGY<br/>
+
+
+    SCHOOL OF BIOLOGICAL SCIENCES<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, SAN DIEGO<br/>
+
+
+
+
+    LA JOLLA,
+
+
+    CA,
+
+
+    92093
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+QI,
+XIN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHYSIOLOGY<br/>
+
+
+    AND BIOPHYSICS<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    CASE WESTERN RESERVE UNIVERSITY<br/>
+
+
+
+    CLEVELAND,
+
+
+    OH,
+
+
+    44106
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+RAN,
+QITAO, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF CELL SYSTEMS<br/>
+
+
+    AND ANATOMY<br/>
+
+
+    LONG SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER<br/>
+
+
+
+    SAN ANTONIO,
+
+
+    TX,
+
+
+    78229
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SANDERS,
+LAURIE
+
+	H, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27710
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SANZ-CLEMENTE,
+ANTONIO, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    AND PHYSIOLOGY<br/>
+
+
+    COLLEGE OF MEDICINE<br/>
+
+
+    DREXEL UNIVERSITY<br/>
+
+
+
+    PHILADELPHIA,
+
+
+    PA,
+
+
+    19102
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SRINIVASAN,
+RAHUL, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROSCIENCE<br/>
+
+
+    AND EXPERIMENTAL THERAPEUTICS<br/>
+
+
+    TEXAS A&amp;M HEALTH SCIENCE CENTER<br/>
+
+
+
+
+    BRYAN,
+
+
+    TX,
+
+
+    77807
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+VARGAS,
+MARCELO
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGY<br/>
+
+
+
+    UNIVERSITY OF WISCONSIN, MADISON<br/>
+
+
+
+
+    MADISON,
+
+
+    WI,
+
+
+    53705
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+VENKATACHALAM,
+KARTIK, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF INTEGRATIVE BIOLOGY<br/>
+
+
+    AND PHARMACOLOGY<br/>
+
+
+    UNIVERSITY OF TEXAS HEALTH SCIENCE CENTER<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77225
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WANG,
+YINGFEI, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PATHOLOGY<br/>
+
+
+    AND NEUROLOGY<br/>
+
+
+    UNIVERSITY OF TEXAS SOUTHWESTERN MEDICAL CENTER<br/>
+
+
+
+
+    DALLAS,
+
+
+    TX,
+
+
+    75390
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WOJTOVICH,
+ANDREW
+
+	PHILLIP, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF ANESTHESIOLOGY<br/>
+
+
+    AND PERIOPERATIVE MEDICINE<br/>
+
+
+    SCHOOL OF MEDICINE AND DENTISTRY<br/>
+
+
+    UNIVERSITY OF ROCHESTER MEDICAL CENTER<br/>
+
+
+
+    ROCHESTER,
+
+
+    NY,
+
+
+    14642
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+XIONG,
+YULAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROSCIENCE<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF CONNECTICUT<br/>
+
+
+
+
+    FARMINGTON,
+
+
+    CT,
+
+
+    06030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ZHANG,
+HUI, PHD
+
+
+
+	*
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHYSIOLOGY AND PHARMACOLOGY<br/>
+
+
+    CENTER FOR NEUROLOGICAL DISEASE RESEARCH<br/>
+
+
+    COLLEGE OF VETERINARY MEDICINE<br/>
+
+
+    UNIVERSITY OF GEORGIA<br/>
+
+
+
+    ATHENS,
+
+
+    GA,
+
+
+    30602
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ZHAO,
+LIQIN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACOLOGY<br/>
+
+
+    AND TOXICOLOGY<br/>
+
+
+    SCHOOL OF PHARMACY<br/>
+
+
+    UNIVERSITY OF KANSAS<br/>
+
+
+
+    LAWRENCE,
+
+
+    KS,
+
+
+    66045
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MAIL REVIEWER<br> --------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SIMON,
+MATTHEW
+
+	DAVID, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MOLECULAR BIOPHYSICS<br/>
+
+
+    AND BIOCHEMISTRY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    YALE UNIVERSITY<br/>
+
+
+
+    NEW HAVEN,
+
+
+    CT,
+
+
+    06477
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DIDONATO,
+CHRISTINE
+
+	JEAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------
+					</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SCOTT,
+SHIN&#039;YA
+
+	M
+
+
+
+	
+	<br/>
+
+
+
+
+    EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+	<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+    
+    
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/24/2024 12:16:08 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,2265 @@
+
+
+
+
+
+<!doctype html>
+<html lang="en" class="h-100">
+  <head>
+  	<!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge;" />
+	<script type="text/javascript" src="/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js" data-dtconfig="app=1e474020aa620e49|featureHash=ICANVfghqrux|rdnt=1|uxrgce=1|bp=3|cuc=7w6h3zrz|mel=100000|expw=1|dpvc=1|md=mdcc1=aa#user-icon.dropdown-toggle,mdcc2=cnewuser|ssv=4|lastModification=1718919075802|tp=500,50,0|agentUri=/pubroster/ruxitagentjs_ICANVfghqrux_10285240307101407.js|reportUrl=/pubroster/rb_9ce569e2-298f-40d4-a938-feb7df5ee3e9|rid=RID_-207859885|rpid=1822773179|domain=nih.gov"></script><link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:no-preference)" />
+	<link rel="icon" href="/eracdn/images/favicon-light.png" media="(prefers-color-scheme:light)" /> 
+	<link rel="icon" href="/eracdn/images/favicon-dark.png" media="(prefers-color-scheme:dark)" /> 
+	
+
+
+
+
+<!-- CSS -->
+<link href='https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/css/bootstrap.min.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/font-awesome/5.14.0/css/all.min.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Required JavaScript -->
+<!-- eRACDN resources jQuery first, then Popper.js, then Bootstrap JS -->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery/3.5.1/1.0/js/jquery.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/bootstrap/5.1.3/1.0/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/era/back-to-top/1.0/js/jump-to-top.js" defer></script>
+
+<!-- Application resources -->
+<script type="text/javascript" src="/pubroster/js/bootstrap5/form.validation.js" defer></script>
+
+
+
+
+
+
+<!-- CSS -->
+<link href="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/css/datatables.bootstrap4.min.css" rel="stylesheet" type="text/css" media='all'/>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/css/dataTables.searchHighlight.css' rel='stylesheet' type='text/css' media='all'>
+<link href='https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/css/dataTables.checkboxes.css' rel='stylesheet' type='text/css' media='all'>
+
+<!-- Javascript-->
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables/1.10.23/1.0/js/datatables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/jquery-highlight/1.0/1.0/js/jquery.highlight.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-search-highlight/1.0/1.0/js/dataTables.searchHighlight.min.js"></script>
+<script type="text/javascript" src="https://public.era.nih.gov/eracdn/public/datatables-extensions/checkboxes/1.2.9/1.0/js/dataTables.checkboxes.min.js"></script>
+<script type="text/javascript" src="/pubroster/js/bootstrap5/datatables.js"></script>
+		
+		<link href="/pubroster/css/pubroster.css" rel="stylesheet" type="text/css"/>
+		<script type="text/javascript" src="/pubroster/js/pubroster.js"></script>
+		<script src='https://public.era.nih.gov/eracdn/public/jquery-blockui/2.70.0-2014.11.23/1.0/js/jquery.blockUI.js' type='text/javascript'></script><title>eRA Main Page</title>
+  </head>
+  <body class="d-flex flex-column">
+  	<a class="visually-hidden-focusable" href="#content">Skip to main content</a>  	
+	
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+.megamenu {
+  position: static;
+}
+.megamenu .dropdown-menu {
+  background: none;
+  left: auto;
+  margin-left: -5px !important;
+}
+@media only screen and (max-width: 992px) {
+	#era-app-name {
+		border: none !important;
+	}
+}
+.era-submenu ul li a.dropdown-toggle { white-space: normal; }
+</style>
+
+<main role="main" class="container-fluid flex-shrink-0">
+    	<div class="container-fluid">
+	    <div class="row my-4">
+	    	<a id="content" name="content"></a>
+	    	<div class="col-sm-12">
+			
+
+
+
+
+<html>
+<head>
+    <title>ICs SEP's Meeting Rosters</title>
+</head>
+
+
+<center>
+<h2>CENTER FOR SCIENTIFIC REVIEW SPECIAL EMPHASIS PANEL</h2>
+         
+         
+         
+             <b>ZRG1 &nbsp;NV
+                 - P (81)</b><br>
+             SPECIAL TOPICS: BRAIN IMAGING, VISION, BIOENGINEERING AND LOW VISION TECHNOLOGY DEVELOPMENT
+             <br>
+         
+         
+         
+         
+         <b>10/26/23 - 10/27/23<br>
+             Meeting Roster</b>
+</cfoutput>
+</center>
+<br>
+<br>
+
+<p><b>Notice of NIH Policy to All Applicants:</b> Meeting rosters are provided for information purposes only. Applicant investigators and institutional officials must not communicate directly with study section members about an application before or after the review. Failure to observe this policy will create a serious breach of integrity in the peer review process, and may lead to actions outlined in <a style="color:blue" href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-22-044.html"><u>NOT-OD-22-044</u></a>, including removal of the application from immediate review.</p>
+<br>
+<!-- this is for the chair Person --->
+	
+		
+		
+		
+		
+			
+			
+				
+					 <b>CHAIRPERSON<br> ----------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KANG-MIELER,
+JENNIFER
+
+	J, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND CHAIR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    STEVENS INSTITUTE OF TECHNOLOGY<br/>
+
+
+
+
+
+    HOBOKEN,
+
+
+    NJ,
+
+
+    07030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MEMBERS<br> --------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+AGLYAMOV,
+SALAVAT
+
+	R, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF MECHANICAL ENGINEERING<br/>
+
+
+    UNIVERSITY OF HOUSTON<br/>
+
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77204
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ALBER,
+JESSICA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL AND<br/>
+
+
+    PHARMACEUTICAL SCIENCES<br/>
+
+
+    UNIVERSITY OF RHODE ISLAND<br/>
+
+
+
+
+    KINGSTON,
+
+
+    RI,
+
+
+    02881
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+APPLEGATE,
+BRIAN
+
+	E, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    OTOLARYNGOLOGY AND OPTHALMOLOGY<br/>
+
+
+
+    UNIVERSITY OF SOUTHERN CALIFORNIA<br/>
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90033
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+BEX,
+PETER
+
+	JOHN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PSYCHOLOGY<br/>
+
+
+
+    NORTHEASTERN UNIVERSITY<br/>
+
+
+
+
+    BOSTON,
+
+
+    MA,
+
+
+    02115
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHALASANI,
+SREEKANTH
+
+	H, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    MOLECULAR NEUROBIOLOGY LABORATORY<br/>
+
+
+    SALK INSTITUTE FOR BIOLOGICAL STUDIES<br/>
+
+
+
+
+
+    LA JOLLA,
+
+
+    CA,
+
+
+    92037
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHAURASIA,
+SHYAM
+
+	SUNDER, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY AND VISUAL SCIENCES<br/>
+
+
+
+
+    MEDICAL COLLEGE OF WISCONSIN<br/>
+
+
+
+    MILWAUKEE,
+
+
+    WI,
+
+
+    53226
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+CHRISTOPHER,
+MARK, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY<br/>
+
+
+    SHILEY EYE INSTITUTE<br/>
+
+
+    UNIVERSITY OF CALIFORNIA SAN DIEGO<br/>
+
+
+
+
+    LA JOLLA,
+
+
+    CA,
+
+
+    92093
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DHALLA,
+AL-HAFEEZ
+
+	ZAHIR, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    AND OPTHALMOLOGY<br/>
+
+
+    DUKE UNIVERSITY<br/>
+
+
+
+
+    DURHAM,
+
+
+    NC,
+
+
+    27708
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DOMALPALLY,
+AMITHA, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    DIRECTOR<br/>
+
+
+    WISCONSIN READING CENTER<br/>
+
+
+    UNIVERSITY OF WISCONSIN<br/>
+
+
+
+
+
+    MADISON,
+
+
+    WI,
+
+
+    53703
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+FRANKFORT,
+BENJAMIN
+
+	J, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY<br/>
+
+
+    AND NEUROSCIENCE<br/>
+
+
+    BAYLOR COLLEGE OF MEDICINE<br/>
+
+
+
+
+    HOUSTON,
+
+
+    TX,
+
+
+    77030
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GHIAM,
+MEHRNOOSH
+
+	SAGHIZADEH, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    BOARD OF GOVERNORS REGENERATIVE MEDICINE INSTITUTE<br/>
+
+
+    DIVISION OF APPLIED CELL BIOLOGY AND PHYSIOLOGY<br/>
+
+
+    CEDARS-SINAI MEDICAL CENTER<br/>
+
+
+
+
+    LOS ANGELES,
+
+
+    CA,
+
+
+    90048
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GRYTZ,
+RAFAEL, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY<br/>
+
+
+    AND VISUAL SCIENCES<br/>
+
+
+    UNIVERSITY OF ALABAMA AT BIRMINGHAM<br/>
+
+
+
+
+    BIRMINGHAM,
+
+
+    AL,
+
+
+    35294
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+HALLAK,
+JOELLE
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY<br/>
+
+
+    UNIVERSITY OF ILLINOIS AT CHICAGO<br/>
+
+
+
+
+
+    CHICAGO,
+
+
+    IL,
+
+
+    60614
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+JING,
+YUN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    GRADUATE PROGRAM IN ACOUSTICS<br/>
+
+
+    COLLEGE OF ENGINEERING<br/>
+
+
+    THE PENNSYLVANIA STATE UNIVERSITY<br/>
+
+
+
+
+    UNIVERSITY PARK,
+
+
+    PA,
+
+
+    16803
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KARAYILAN,
+METIN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF CHEMISTRY<br/>
+
+
+    CASE WESTERN RESERVE UNIVERSITY<br/>
+
+
+
+
+
+    CLEVELAND,
+
+
+    OH,
+
+
+    44106
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KASHANI,
+AMIR
+
+	H, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR OF OPHTHALMOLOGY, AND BIOMEDICAL ENGINEERING<br/>
+
+
+    WILMER EYE INSTITUTE<br/>
+
+
+    JOHNS HOPKINS SCHOOL OF MEDICINE<br/>
+
+
+
+
+
+    BALTIMORE,
+
+
+    MD,
+
+
+    21287
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+KOMAROMY,
+ANDRAS, DVM, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF SMALL ANIMAL CLINICAL SCIENCES<br/>
+
+
+    COLLEGE OF VETERINARY MEDICINE<br/>
+
+
+    MICHIGAN STATE UNIVERSITY<br/>
+
+
+
+
+    EAST LANSING,
+
+
+    MI,
+
+
+    48824
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LEE,
+JONGHWAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    SCHOOL OF ENGINEERING<br/>
+
+
+    CARNEY INSTITUTE FOR BRAIN SCIENCE<br/>
+
+
+    BROWN UNIVERSITY<br/>
+
+
+
+
+    PROVIDENCE,
+
+
+    RI,
+
+
+    02912
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+LEIN,
+ED, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SENIOR INVESTIGATOR<br/>
+
+
+    DEPARTMENT OF NEUROLOGICAL SURGERY<br/>
+
+
+    ALLEN INSTITUTE FOR BRAIN SCIENCE<br/>
+
+
+    AND UNIVERSITY OF WASHINGTON SEATTLE<br/>
+
+
+
+
+    SEATTLE,
+
+
+    WA,
+
+
+    98103
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MARCOS,
+SUSANA, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND DIRECTOR<br/>
+
+
+    FLAUM EYE INSTITUTE<br/>
+
+
+    CENTER FOR VISUAL SCIENCES<br/>
+
+
+
+    UNIVERSITY OF ROCHESTER<br/>
+
+
+
+    ROCHESTER,
+
+
+    NY,
+
+
+    14620
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+MEDEIROS,
+FELIPE, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    BASCOM PALMER EYE INSTITUTE<br/>
+
+
+    UNIVERSITY OF MIAMI MILLER SCHOOL OF MEDICINE<br/>
+
+
+
+
+
+    MIAMI,
+
+
+    FL,
+
+
+    33146
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+O&#039;HERRON,
+PHILIP, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHYSIOLOGY<br/>
+
+
+    AUGUSTA UNIVERSITY<br/>
+
+
+
+
+
+    AUGUSTA,
+
+
+    GA,
+
+
+    30912
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+OBENAUS,
+ANDRE, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF PEDIATRICS<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, IRVINE<br/>
+
+
+
+
+    IRVINE,
+
+
+    CA,
+
+
+    92697
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+PIESTUN,
+RAFAEL, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF ELECTRICAL AND COMPUTER ENGINEERING<br/>
+
+
+    AND DEPARTMENT OF PHYSICS<br/>
+
+
+    UNIVERSITY OF COLORADO BOULDER<br/>
+
+
+
+
+    BOULDER,
+
+
+    CO,
+
+
+    80309
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ROWLAND,
+BENJAMIN
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF NEUROBIOLOGY AND ANATOMY<br/>
+
+
+    WAKE FOREST UNIVERSITY SCHOOL OF MEDICINE<br/>
+
+
+
+
+
+    WINSTON-SALEM,
+
+
+    NC,
+
+
+    27157
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SULLIVAN,
+JOHN
+
+	M, MD, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHALMOLOGY<br/>
+
+
+
+
+    UNIVERSITY OF BUFFALO, SUNY<br/>
+
+
+
+    BUFFALO,
+
+
+    NY,
+
+
+    14215
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+SUMMERS,
+JODY
+
+	A, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF CELL BIOLOGY<br/>
+
+
+    UNIVERSITY OF OKLAHOMA HEALTH SCIENCES CENTER<br/>
+
+
+
+
+
+    OKLAHOMA CITY,
+
+
+    OK,
+
+
+    73104
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+TAO,
+YUANKAI
+
+	KENNY, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+
+    VANDERBILT UNIVERSITY<br/>
+
+
+
+
+    NASHVILLE,
+
+
+    TN,
+
+
+    37235
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+TIAN,
+YINGLI, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    DISTINGUISHED PROFESSOR<br/>
+
+
+    DEPARTMENT OF ELECTRICAL ENGINEERING<br/>
+
+
+    THE CITY COLLEGE OF NEW YORK<br/>
+
+
+
+
+
+    NEW YORK,
+
+
+    NY,
+
+
+    10031
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+VAZQUEZ,
+ALBERTO
+
+	L, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF RADIOLOGY<br/>
+
+
+    UNIVERSITY OF PITTSBURGH<br/>
+
+
+
+
+
+    PITTSBURGH,
+
+
+    PA,
+
+
+    15213
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+WANG,
+LEI
+
+	GARRETT, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    RESEARCH ASSISTANT PROFESSOR<br/>
+
+
+    DEPARTMENT OF BIOMEDICAL ENGINEERING<br/>
+
+
+    KNIGHT CANCER INSTITUTE<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    OREGON HEALTH AND SCIENCE UNIVERSITY<br/>
+
+
+
+    PORTLAND,
+
+
+    OR,
+
+
+    97201
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+XU,
+QINGGUO, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    ASSOCIATE PROFESSOR<br/>
+
+
+    DEPARTMENT OF PHARMACEUTICS<br/>
+
+
+    VIRGINIA COMMONWEALTH UNIVERSITY<br/>
+
+
+
+
+
+    RICHMOND,
+
+
+    VA,
+
+
+    23284
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+YANG,
+HU, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR AND CHAIR<br/>
+
+
+    DEPARTMENT OF CHEMICAL<br/>
+
+
+    AND BIOCHEMICAL ENGINEERING<br/>
+
+
+
+    MISSOURI UNIVERSITY OF SCIENCE AND TECHNOLOGY<br/>
+
+
+
+    ROLLA,
+
+
+    MO,
+
+
+    65409
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+YUN,
+SEOK-HYUN
+
+	ANDY, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF DERMATOLOGY<br/>
+
+
+    MASSACHUSETTS GENERAL HOSPITAL<br/>
+
+
+
+
+
+    BOSTON,
+
+
+    MA,
+
+
+    02139
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ZAWADZKI,
+ROBERT
+
+	J, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENT OF OPHTHAMOLOGY AND VISION SCIENCE<br/>
+
+
+    UC DAVIS EYE CENTER<br/>
+
+
+    UNIVERSITY OF CALIFORNIA, DAVIS<br/>
+
+
+
+
+    SACRAMENTO,
+
+
+    CA,
+
+
+    95817
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>MAIL REVIEWER<br> --------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+ISHIKAWA,
+HIROSHI, MD
+
+
+
+	
+	<br/>
+
+
+
+
+    PROFESSOR<br/>
+
+
+    DEPARTMENTS OF OPHTHALOMOLOGY<br/>
+
+
+    SCHOOL OF MEDICINE<br/>
+
+
+    OREGON HEALTH AND SCIENCE UNIVERSITY<br/>
+
+
+
+
+    PORTLAND,
+
+
+    OR,
+
+
+    97239
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>SCIENTIFIC REVIEW OFFICER<br> --------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+GILLMOR,
+SUSAN, PHD
+
+
+
+	
+	<br/>
+
+
+
+
+    SCIENTIFIC REVIEW OFFICER<br/>
+
+
+    CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+			
+			
+				
+					 <b>EXTRAMURAL SUPPORT ASSISTANT<br> --------------------------------------------------------</b>
+					
+					<br>
+				
+				<p>
+					
+
+
+
+
+
+
+
+
+DIWANI,
+ILHAM
+
+	A
+
+
+
+	
+	<br/>
+
+
+
+
+    LEAD EXTRAMURAL SUPPORT ASSISTANT<br/>
+
+
+    THE CENTER FOR SCIENTIFIC REVIEW<br/>
+
+
+    THE NATIONAL INSTITUTES OF HEALTH<br/>
+
+
+
+
+
+    BETHESDA,
+
+
+    MD,
+
+
+    20892
+
+
+				</p>
+			
+			
+			
+		
+	
+	
+		<hr>
+
+    * Temporary Member<br>
+    * Flexible<br>
+
+
+
+		</div><div class='d-none'></div>
+	    </div>
+	    </div>
+    </main>
+	
+	
+
+<style>
+.footer-grad-bar {
+  height: 10px !important;
+} 
+</style>
+
+
+<div class="flex-grow-1"></div>
+<div class="gradient-top">
+        <div class="footer-grad-bar bgGradientColor mt-auto"></div>
+        <footer class="bg-secondary-dark text-start text-white p-4 pb-3">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1 d-none d-xl-block">
+                        <a href="https://era.nih.gov" target="_blank" rel="noopener">
+  						<img src="/pubroster/images/era_logo_sm.png" height="50px" class="img-fluid" alt="eRA Logo">
+						</a>
+                    </div>
+                    <div class="col-lg-5 col-md-7 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p>
+                                    <a href="http://era.nih.gov" target="_blank" rel="noopener" class="fw-bold link-light">eRA - End-to-End Grants Management Solutions</a>
+                                </p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov" target="_blank" rel="noopener" class="link-light">NIH Grants and Funding</a>
+                            </li>
+                            <li>
+                                <a href="http://www.nih.gov" target="_blank" rel="noopener" class="link-light">National Institutes of Health</a>
+                            </li>
+                            <li>
+                                <a href="http://www.hhs.gov" target="_blank" rel="noopener" class="link-light">HHS - U.S. Dept. of Health and Human Services</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-5 col-12">
+                        <ul class="list-unstyled">
+                            <li>
+                                <p class="fw-bold">Resources</p>
+                            </li>
+                            <li>
+                                <a href="http://grants.nih.gov/grants/privacy.htm" target="_blank" rel="noopener" class="link-light">Privacy Notice</a> |
+                                <a href="https://grants.nih.gov/accessibility.htm" target="_blank" rel="noopener" class="link-light">Accessibility</a> |
+                                <a href="https://grants.nih.gov/disclaimer.htm" target="_blank" rel="noopener" class="link-light">Disclaimer</a>
+                            </li>
+                            <li>
+                                <a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank" rel="noopener" class="link-light">HHS Vulnerability Disclosure</a>
+                            </li>
+                            <li> 
+                                <span class="timestamp" 
+         							 title="">          							 
+      								 06/27/2024 01:49:21 PM EST 
+    							</span>
+                            </li>
+                        </ul>                       		
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>
